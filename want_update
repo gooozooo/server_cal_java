@@ -1,0 +1,8 @@
+There are a few more features I want to add.
+
+1. Server information at a client is stored with a configuration
+text file
+
+2. Make it available to multiple users (using the ReadPool & Runable interface)
+
+I will trying to add these features and will update the relevant content if I do.
